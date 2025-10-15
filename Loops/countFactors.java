@@ -7,3 +7,4 @@ public class Main {
         }
     }
 }
+// use for loop when you need extra loop variable
